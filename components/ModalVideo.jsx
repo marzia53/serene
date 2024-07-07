@@ -1,7 +1,7 @@
 import React from "react";
 import ReactPlayer from "react-player";
 import Image from "next/image";
-import { Dialog, DialogContent, DialogTrigger } from "@radix-ui/react-dialog";
+import { Dialog, DialogContent, DialogTrigger } from "./ui/dialog";
 
 const ModalVideo = () => {
     return (
